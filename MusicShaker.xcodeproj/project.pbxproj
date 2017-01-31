@@ -12,6 +12,11 @@
 		BAFB766E1E35F0D2005170DB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BAFB766C1E35F0D2005170DB /* Main.storyboard */; };
 		BAFB76701E35F0D2005170DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BAFB766F1E35F0D2005170DB /* Assets.xcassets */; };
 		BAFB76731E35F0D2005170DB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BAFB76711E35F0D2005170DB /* LaunchScreen.storyboard */; };
+		BAFB767E1E35F116005170DB /* LetMeLoveYou.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BAFB767A1E35F116005170DB /* LetMeLoveYou.mp3 */; };
+		BAFB767F1E35F116005170DB /* ISeeFire.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BAFB767B1E35F116005170DB /* ISeeFire.mp3 */; };
+		BAFB76801E35F116005170DB /* ILikeBadHouseVersion.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BAFB767C1E35F116005170DB /* ILikeBadHouseVersion.mp3 */; };
+		BAFB76811E35F116005170DB /* INeedLove.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BAFB767D1E35F116005170DB /* INeedLove.mp3 */; };
+		BAFB76831E35F577005170DB /* girlcap.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BAFB76821E35F577005170DB /* girlcap.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +27,11 @@
 		BAFB766F1E35F0D2005170DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BAFB76721E35F0D2005170DB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BAFB76741E35F0D2005170DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BAFB767A1E35F116005170DB /* LetMeLoveYou.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = LetMeLoveYou.mp3; sourceTree = "<group>"; };
+		BAFB767B1E35F116005170DB /* ISeeFire.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ISeeFire.mp3; sourceTree = "<group>"; };
+		BAFB767C1E35F116005170DB /* ILikeBadHouseVersion.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ILikeBadHouseVersion.mp3; sourceTree = "<group>"; };
+		BAFB767D1E35F116005170DB /* INeedLove.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = INeedLove.mp3; sourceTree = "<group>"; };
+		BAFB76821E35F577005170DB /* girlcap.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = girlcap.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +70,11 @@
 				BAFB766F1E35F0D2005170DB /* Assets.xcassets */,
 				BAFB76711E35F0D2005170DB /* LaunchScreen.storyboard */,
 				BAFB76741E35F0D2005170DB /* Info.plist */,
+				BAFB767A1E35F116005170DB /* LetMeLoveYou.mp3 */,
+				BAFB767B1E35F116005170DB /* ISeeFire.mp3 */,
+				BAFB767C1E35F116005170DB /* ILikeBadHouseVersion.mp3 */,
+				BAFB767D1E35F116005170DB /* INeedLove.mp3 */,
+				BAFB76821E35F577005170DB /* girlcap.jpg */,
 			);
 			path = MusicShaker;
 			sourceTree = "<group>";
@@ -125,6 +140,11 @@
 			files = (
 				BAFB76731E35F0D2005170DB /* LaunchScreen.storyboard in Resources */,
 				BAFB76701E35F0D2005170DB /* Assets.xcassets in Resources */,
+				BAFB767E1E35F116005170DB /* LetMeLoveYou.mp3 in Resources */,
+				BAFB76801E35F116005170DB /* ILikeBadHouseVersion.mp3 in Resources */,
+				BAFB76831E35F577005170DB /* girlcap.jpg in Resources */,
+				BAFB767F1E35F116005170DB /* ISeeFire.mp3 in Resources */,
+				BAFB76811E35F116005170DB /* INeedLove.mp3 in Resources */,
 				BAFB766E1E35F0D2005170DB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
